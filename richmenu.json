@@ -1,0 +1,107 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "ริชเมนู",
+  "chatBarText": "เมนูหลักของเรา",
+  "areas": [
+    {
+      "bounds": {
+        "x": 68,
+        "y": 46,
+        "width": 574,
+        "height": 756
+      },
+      "action": {
+        "type": "message",
+        "text": "เริ่มใช้บริการtelemedicine"
+      }
+    },
+    {
+      "bounds": {
+        "x": 667,
+        "y": 55,
+        "width": 575,
+        "height": 743
+      },
+      "action": {
+        "type": "message",
+        "text": "ข้อมูลเพิ่มเติมเกี่ยวกับtelemedicine"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1258,
+        "y": 55,
+        "width": 587,
+        "height": 743
+      },
+      "action": {
+        "type": "message",
+        "text": "สาระสุขภาพ"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1871,
+        "y": 46,
+        "width": 566,
+        "height": 744
+      },
+      "action": {
+        "type": "message",
+        "text": "บริการของเรา"
+      }
+    },
+    {
+      "bounds": {
+        "x": 59,
+        "y": 887,
+        "width": 574,
+        "height": 764
+      },
+      "action": {
+        "type": "message",
+        "text": "เกี่ยวกับเรา"
+      }
+    },
+    {
+      "bounds": {
+        "x": 671,
+        "y": 887,
+        "width": 571,
+        "height": 760
+      },
+      "action": {
+        "type": "message",
+        "text": "ติดต่อเรา"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1267,
+        "y": 891,
+        "width": 570,
+        "height": 748
+      },
+      "action": {
+        "type": "message",
+        "text": "ประชาสัมพันธ์"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1850,
+        "y": 896,
+        "width": 592,
+        "height": 757
+      },
+      "action": {
+        "type": "message",
+        "text": "คำถามที่พบบ่อย"
+      }
+    }
+  ]
+}
