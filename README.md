@@ -15,7 +15,18 @@
 
 ---
 
+| EVENT ROUTING & SERVICE PROTOCOLS | | |
+| :--- | :--- | :--- |
+| **Functional Domain** | **Triggering Keywords** | **Synthesis Protocol** |
+| **Telemedicine** | เริ่มใช้บริการ, เริ่มต้น, ใช้งาน | `getTelemedSession()` |
+| **Clinical Services** | ตรวจโรคทั่วไป, แพทย์แผนไทย, แพทย์แผนจีน | `getClinicalInquiry()` |
+| **Service Info** | ข้อมูลเพิ่มเติม, บริการ, ดูเพิ่มเติม | `getMoreTelemed()` |
+| **Knowledge Base** | คำถามที่พบบ่อย, FAQ, สาระสุขภาพ | `getFaqKnowledgeBase()` |
+| **Public Relations** | ประชาสัมพันธ์, ข่าวสาร | `getLatestNews()` |
+| **Navigation** | บริการของเรา, เมนูหลัก | `servicesQuickReply()` |
+| **Contact/Profile** | ติดต่อเรา, เกี่ยวกับเรา | `getContactInfo()` |
 
+---
 
 <p align="center">
   <em><strong>System Architecture Logic Flow</strong></em>
